@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+    background-color: black;
+}
+
+h1 {
+    padding: 30px;
+    color: aquamarine;
+}
+
+textarea {
+    margin: 10px;
+    padding: 20px;
+    width: 300px;
+    color: aquamarine;
+    background-color: black;
+}
+
+button {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+
+p {
+    color: aquamarine;
+    font-size: x-large;
+    padding: 20px;
+}
+
+div {
+    color: aquamarine;
+    font-size: x-large;
+}
