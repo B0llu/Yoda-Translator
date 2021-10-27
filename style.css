@@ -17,11 +17,15 @@ h1 {
 }
 
 textarea {
-    margin: 10px;
+    border: 1px solid aquamarine;
+    margin: 20px;
     padding: 20px;
-    width: 300px;
+    width: 500px;
+    text-align: center;
+    border-radius: 20px;
     color: aquamarine;
     background-color: black;
+    resize: none;
 }
 
 button {
@@ -39,5 +43,6 @@ p {
 
 div {
     color: aquamarine;
-    font-size: x-large;
+    font-size: xx-large;
+
 }
