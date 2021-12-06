@@ -1,48 +1,51 @@
 * {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
 
 body {
-    text-align: center;
-    padding: 50px;
-    margin: 50px;
-    background-color: black;
+  text-align: center;
+  padding: 50px;
+  margin: 50px;
+  background-color: black;
 }
 
 h1 {
-    padding: 30px;
-    color: aquamarine;
+  padding: 30px;
+  color: aquamarine;
 }
 
 textarea {
-    border: 1px solid aquamarine;
-    margin: 20px;
-    padding: 20px;
-    width: 500px;
-    text-align: center;
-    border-radius: 20px;
-    color: aquamarine;
-    background-color: black;
-    resize: none;
+  border: 1px solid aquamarine;
+  margin: 20px;
+  padding: 20px;
+  width: 500px;
+  text-align: center;
+  border-radius: 20px;
+  color: aquamarine;
+  background-color: black;
+  resize: none;
+}
+
+textarea:focus {
+  outline: none;
 }
 
 button {
-    padding: 10px;
-    border: 1px solid black;
-    border-radius: 10px;
-    background-color: aquamarine;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: aquamarine;
 }
 
 p {
-    color: aquamarine;
-    font-size: x-large;
-    padding: 20px;
+  color: aquamarine;
+  font-size: x-large;
+  padding: 20px;
 }
 
 div {
-    color: aquamarine;
-    font-size: xx-large;
-
+  color: aquamarine;
+  font-size: xx-large;
 }
